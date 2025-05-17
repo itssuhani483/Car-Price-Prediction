@@ -61,4 +61,4 @@ The trained model was evaluated for performance using various regression metrics
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🙋‍♂️ Questions?
-For any questions or feedback, contact 90ankushsaini@gmail.com.
+For any questions or feedback, contact suhanigupta0397@gmail.com.
